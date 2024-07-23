@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0 0 5px black;
+}
+
+button {
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#displayValue {
+    padding: 5px 15px;
+    border: 1px solid black;
+    font-size: 18px;
+}
