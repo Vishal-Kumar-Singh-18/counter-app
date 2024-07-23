@@ -24,7 +24,7 @@ You will need a web browser to view the application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/counter-app.git
+   git clone https://github.com/Vishal-Kumar-Singh-18/counter-app.git
    ```
 
 2. Navigate to the project directory:
